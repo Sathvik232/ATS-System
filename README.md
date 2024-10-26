@@ -227,19 +227,3 @@ Response:
    ```bash
    python app.py
    ```
-
----
-
- Contributing
-
-Feel free to submit issues, feature requests, and pull requests. Before contributing, please ensure that your changes are well-tested.
-
----
-
- License
-
-This project is licensed under the MIT License.
-
----
-
-This README provides a structured overview of the application and its functionality for contributors and users. Let me know if you want any further customization!
